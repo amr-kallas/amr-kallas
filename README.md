@@ -6,13 +6,13 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api?username=I-3B&show_icons=true&theme=github_dark_dimmed"
+        srcset="https://github-readme-stats.vercel.app/api?username=amr-kallas&show_icons=true&theme=github_dark_dimmed"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api?username=I-3B&show_icons=true&"
+        srcset="https://github-readme-stats.vercel.app/api?username=amr-kallas&show_icons=true&"
       />
-      <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=I-3B&show_icons=true&theme=github_dark_dimmed" />
+      <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=amr-kallas&show_icons=true&theme=github_dark_dimmed" />
     </picture>
   </a>
 </section>
